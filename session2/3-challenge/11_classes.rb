@@ -72,5 +72,5 @@ def print_song()
 end
 end
 	
-new_song = BeerSong.new(3)
-new_song.print_song()
+#new_song = BeerSong.new(3)
+#new_song.print_song()
